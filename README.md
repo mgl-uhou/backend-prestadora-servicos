@@ -1,5 +1,7 @@
 # Agendamento de Serviços
 
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)
+
 ## Sobre o Projeto
 Sistema que trata de agendamentos com controle de acesso para administradores, controle de agendamentos para evitar horários duplicados e sistema de usuários.
 
